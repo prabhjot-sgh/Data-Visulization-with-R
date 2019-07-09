@@ -1,9 +1,9 @@
 ## Data Visualization with R 
-####### all chart reference from :- - www.plot.ly/r/
+all chart reference from :- - www.plot.ly/r/
 
 
 
-####I have used mpg dataset for all visualization, below are some details about "mpg" dataset:
+have used mpg dataset for all visualization, below are some details about "mpg" dataset:
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
